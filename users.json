@@ -1,0 +1,32 @@
+{
+    "user1": {
+        "name": "Mahesh",
+        "password" : "Mahesh@123",
+        "Profession": "Acting",
+        "id": "1"
+    },
+    "user2": {
+        "name": "Goutham",
+        "password" : "Goutham@123",
+        "Profession": "Student",
+        "id": "2"
+    },
+    "user3": {
+        "name": "Sitara",
+        "password" : "Sitara@123",
+        "Profession": "Dancing",
+        "id": "3"
+    },
+    "user4": {
+        "name": "Namartha",
+        "password" : "Namartha@123",
+        "Profession": "Acting",
+        "id": "4"
+    },
+    "user5": {
+        "name": "Krishna",
+        "password" : "Krsihna@123",
+        "Profession": "Acting",
+        "id": "5"
+    }
+}
